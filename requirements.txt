@@ -21,7 +21,7 @@ gitdb
 GitPython
 gradio
 h5py>=3.10.0
-huggingface-hub>=0.22.0
+huggingface-hub
 idna
 imageio
 imath
@@ -40,7 +40,6 @@ ndindex
 networkx
 ninja
 numexpr
-numpy<2.0.0
 opencv-python
 OpenEXR
 packaging
@@ -73,13 +72,13 @@ termcolor
 timm
 tqdm
 trimesh
-triton>=2.4.0
+triton==2.2.0
 typing_extensions
 tzdata==2024.1
 urllib3==1.26.13
 wandb
 yacs
-torch>=2.4.0
-torchvision>=0.19.0
-torchaudio>=2.4.0
-xformers>=0.0.26
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+xformers

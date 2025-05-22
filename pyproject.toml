@@ -12,7 +12,7 @@ authors = [{name = "Luigi Piccinelli", email = "lpiccinelli@ethz.ch"}]
 description = "UniK3D: Universal Monocular Metric Depth Estimation"
 readme = "README.md"
 license = { text="Creatives Common BY-NC 4.0 license"}
-requires-python = ">=3.11.0"
+requires-python = ">=3.10.0"
 dynamic = ["dependencies"]
 
 [tool.setuptools.dynamic]
